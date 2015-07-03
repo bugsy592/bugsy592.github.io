@@ -1,0 +1,4 @@
+name: TestPlugin
+main: me.bugsy592.Testplugin.testPlugin
+version: 1.0
+author: bugsy592
