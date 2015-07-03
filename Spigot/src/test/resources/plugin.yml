@@ -1,4 +1,4 @@
-name: SpigotBlankPlugin
-main: com.meeku.tutorialplugin.SpigotBlankPlugin
+name: TestPlugin
+main: me.bugsy592.TestPluginSpigot.TestPlugin
 version: 1.0
 commands:
